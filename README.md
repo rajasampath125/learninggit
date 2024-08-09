@@ -1,3 +1,4 @@
 # learninggit
+
 Learning git from ApnaCollege,
-Author- Polati Rajasampath
+Student- Polati Rajasampath
